@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Wan7iku
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning how to apply neural networks in the analysis of financial data
+- 🌱 I’m currently building an app that prices cocktails
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me wanjiku7101@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love the rain.
+- ⚡ Fun fact: I love the rain,the moon, venus,jupiter and orion.
 - 
 
 <!---

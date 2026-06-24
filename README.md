@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wan7iku
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently building an app that prices cocktails
+- 👀 I’m interested in building real-world machine learning systems
+- 🌱 I’m currently building an app that prices cocktails for cocktail bars, lounges and restaurants
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me wanjiku7101@gmail.com
 - 😄 Pronouns: she/her

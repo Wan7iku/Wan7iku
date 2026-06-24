@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me wanjiku7101@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love the rain,the moon, venus,jupiter and orion.
+- ⚡ Fun fact: I love the rain,the moon, Venus,Jupiter and Orion.
 - 
 
 <!---
